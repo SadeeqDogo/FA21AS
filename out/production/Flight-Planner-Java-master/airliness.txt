@@ -1,0 +1,9 @@
+AA;American Airlines
+2G;CargoItalia (alternate)
+CO;Continental Airlines
+DL;Delta Air Lines
+NW;Northwest Airlines(alternate site)
+AC;Air Canada
+UA;United Airlines Cargo
+CP;Canadian Airlines Int´l
+LH;Lufthansa Cargo AG
